@@ -1,2 +1,2 @@
-msg = "Hello, World and QA!"
+msg = "Hello, World and AI!"
 print(msg)
